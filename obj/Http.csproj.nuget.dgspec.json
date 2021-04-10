@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\Http.csproj": {}
+    "c:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\Http.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\Http.csproj": {
+    "c:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\Http.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\Http.csproj",
+        "projectUniqueName": "c:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\Http.csproj",
         "projectName": "Http",
-        "projectPath": "C:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\Http.csproj",
+        "projectPath": "c:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\Http.csproj",
         "packagesPath": "C:\\Users\\teddyzxcv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\obj\\",
+        "outputPath": "c:\\Users\\teddyzxcv\\Documents\\GitHub\\Http\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,9 +42,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.4, )"
             }
           },
           "imports": [
