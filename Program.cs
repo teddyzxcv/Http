@@ -20,18 +20,19 @@ namespace Http
             Console.WriteLine(content);
             Exchange ex = JsonConvert.DeserializeObject<Exchange>(content);
             Console.WriteLine(JsonConvert.SerializeObject(ex));
+            await CreateTable();
 
         }
         static async Task CreateTable()
         {
             using var db = new NpgsqlConnection(ConnectionString);
             var query =
-                @"CREATE TABLE crm.COMPANY(
+                @"CREATE TABLE crm.EXCHANGE(
                    ID INT PRIMARY KEY     NOT NULL,
-                   NAME           TEXT    NOT NULL,
-                   AGE            INT     NOT NULL,
-                   ADDRESS        CHAR(50),
-                   SALARY         REAL
+                   DATA           TEXT    NOT NULL,
+                   TO_USD            REAL     NOT NULL,
+                   TO_JPY        REAL,
+                   TO_EUR         REAL
                 );";
 
             await db.QueryAsync(
@@ -44,7 +45,6 @@ namespace Http
     {
         [JsonProperty("base")]
         public static string @base = "RUB";
-
         public Dictionary<string, double> rates = new Dictionary<string, double>();
         public string date;
 

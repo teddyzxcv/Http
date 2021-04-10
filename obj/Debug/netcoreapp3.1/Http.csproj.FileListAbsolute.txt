@@ -13,3 +13,5 @@ C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.csproj.Cop
 C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.dll
 C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.pdb
 C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.genruntimeconfig.cache
+C:\Users\teddyzxcv\Documents\GitHub\Http\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\teddyzxcv\Documents\GitHub\Http\bin\Debug\netcoreapp3.1\Npgsql.dll
