@@ -1,0 +1,15 @@
+C:\Users\teddyzxcv\Documents\GitHub\Http\bin\Debug\netcoreapp3.1\Http.exe
+C:\Users\teddyzxcv\Documents\GitHub\Http\bin\Debug\netcoreapp3.1\Http.deps.json
+C:\Users\teddyzxcv\Documents\GitHub\Http\bin\Debug\netcoreapp3.1\Http.runtimeconfig.json
+C:\Users\teddyzxcv\Documents\GitHub\Http\bin\Debug\netcoreapp3.1\Http.runtimeconfig.dev.json
+C:\Users\teddyzxcv\Documents\GitHub\Http\bin\Debug\netcoreapp3.1\Http.dll
+C:\Users\teddyzxcv\Documents\GitHub\Http\bin\Debug\netcoreapp3.1\Http.pdb
+C:\Users\teddyzxcv\Documents\GitHub\Http\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.csprojAssemblyReference.cache
+C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.AssemblyInfoInputs.cache
+C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.AssemblyInfo.cs
+C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.csproj.CoreCompileInputs.cache
+C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.csproj.CopyComplete
+C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.dll
+C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.pdb
+C:\Users\teddyzxcv\Documents\GitHub\Http\obj\Debug\netcoreapp3.1\Http.genruntimeconfig.cache
